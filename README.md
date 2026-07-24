@@ -18,10 +18,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2652-sum-multiples](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

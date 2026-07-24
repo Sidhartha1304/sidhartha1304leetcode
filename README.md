@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0292-nim-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

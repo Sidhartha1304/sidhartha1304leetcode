@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
 | [2652-sum-multiples](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+| [2652-sum-multiples](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |

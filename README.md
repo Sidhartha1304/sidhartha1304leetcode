@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1929-concatenation-of-array) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

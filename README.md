@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0013-roman-to-integer) |
+| [0292-nim-game](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0292-nim-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2413-smallest-even-multiple](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2469-convert-the-temperature) |
@@ -35,4 +36,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/2413-smallest-even-multiple) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Sidhartha1304/sidhartha1304leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
